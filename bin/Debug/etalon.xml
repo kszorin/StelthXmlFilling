@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+
+<signatec_licenses_pack version="3" certificate="certificate.cert">
+
+  <products>
+  
+    <product 
+      id="1" 
+      name="MagRead"                official-name="Панель МАГ (Воспроизведение)"
+      version="6.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="192" 
+      cypher_const="1320EF6B"
+      cypher_p1="28D817BB648025421F17DEEAB445FDCF"
+      cypher_p2="3591BB8DBB9C052974A48D8B7B25DF756BB1838E42584AD30673C7226D40F7B8383B9D40193D8B082DF949B749624A35E896B838B08208DAF03E9BF38A71A1FA23773D729A0E3D2A7DD2E7F9AF55DEB6E154C9E1D4EDB5C3B622A02A0E0A07816E97195E9780E7A69395166603D011A98"
+      cypher_p3="828524AB2D784B7C09D7AF6C6776F803"
+      cypher_p4="828524AB2D7770555529DE630806EA40"
+      cypher_p5="4BF2263F20A364252A4814EAFB5074F5AEE799F15360059650D571551592D0A28492472624D756ACE2331114500F5F9041F59CB0A85DAFC9F35DF8EE4AF671706EFF90DD5DC85E1AFFCD1C796C9540B0801979B87FA76438F79DAE59E6E5BB70B24F7C54594B8612287E55079136E380BB3432953120097F931E84166F119ED1"
+      cypher_p6="1B3680350F84C30E462FD73B43CA56DC0F6891C0E7F23CCA6F8946B5E3AD468F5B671C354EA1526A16FC595FF6F818F660BA6F5FD3936E35D8B4C4F53090B0C7A5A12ADE9F9C0C1FE62671491063D3B27A527E19FE03843BE798B662799E6A738DFB65736E2C3EB1B829E991BC1DDD32D57B7DE3AAB4D7B4C0DB36C5220C44741"
+      cypher_p7="1B4FDDA0BA23B2CF78B96ED083D035B1C218B1147EF984F4644DD42F58720DE582E6CEE1AB71A9EC7B3809375178F3FE4C988F4F1BEB8ADF3B6A56A10AD35345614D9699CF66B85C749E209417C9DCF1F310C723D44DAA3EFCBD332036710D69316C9DE465CDBCE1C089A6E2E9333731E3A60ADCAE56A39D69074C0D74255ED1F"
+      ncodec_cypher="6D2D12B44B8C43A7"
+    />
+
+    <product 
+      id="2" 
+      name="TaskJournal"            official-name="Учет заданий"
+      version="2.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="D988DD93"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="D006D5F797BC4C28"
+    />
+
+    <product 
+      id="3" 
+      name="MagFax"                 official-name="Обработка факсимильных сообщений"
+      version="4.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="192" 
+      cypher_const="6A7AAD13"
+      cypher_p1="4EB6146AEBDA66D30AC533CB692D7718"
+      cypher_p2="31838E28C6552EA7353E9F771698B7ED344C98B532AB073174AB99D543B12E4617259F37D485506BD4D87E0919719F037BD3B2B2D8D38CCAA9113473AF0A87FAF07D22210C00258C6ED8C2727175A50603539B5C5E7A7D983DEC5ED0536F1D963B12A8867968E11D721BF758FED46DCA0"
+      cypher_p3="81A815DCCD9CAB009DCE6D0126D04501"
+      cypher_p4="81A815DCCD9BA7C2AFF53796F2C731B0"
+      cypher_p5="13D80793A6A5B72E51BFAE963C44D79735EE6786D51B9433B8E0E446036B1AF5E6ED17904BAC480359D6CAB1DFC50EAD17BD9E002F24607C09D113DBA6FD94902640710A86538663C06DF2C94F8F5FC308DCCA39AED3E9AE615F88D9455C56732E9A237096E3AB90BF7DBBD56583728FC9EBDFB5F986ED8DE6B56752510C1C4A0"
+      cypher_p6="1936585D150CB0DD9402CC12E06C9BB6BB1D4A78154D8856596EF861AF72B417C0818465C1B36895CC5DE063CD0183A77797F80BEE2929304C64B30BA049A6C5761CC999EDA3616201409F33F7D5BD8BD24A97157C9A8E02433A4F5A4BD32F8AB7CCFBDC2E1BC26E733638FD7FFA3C16B62937C7358AE64D0481A3E81B38A52F"
+      cypher_p7="1913CD32562F3DCC93BD38636A1F709EE255030F799328F67401AA73B662DE597EEC72FBDAAE43D1D3306342DDCCBBA45083D8FFE08D6A4A3B664BBC597493240BDE2EAFCD24BA0F4427D4B0951B8F434A48B50EB6C82D9E7C08F95AA5B1A7A0824ED143F878449E29D5679E8AC6BBA6BEB7F42193FA9FD1D634EBB9247FFAAB3"
+      ncodec_cypher="2DA161C6542ABC0A"
+    />
+
+    <product 
+      id="4" 
+      name="CellPhoneTracking"      official-name="Визуализация местоположения"
+      version="2.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="192"
+      cypher_const="71F28AF9"
+      cypher_p1="2BAC71F8DEA0F834774850149C946AA2"
+      cypher_p2="1E6EF9244B626E1E1AE80C0EB749F4C66FA14B330E412AB100685C95A42416D8D71E5B46EA17ABCA306BF3895DFB1C345A582F7D12104D29548D981397B32C1945C8CF1624698B7981EE0A2AA0EF47AE4B275215DAFDEE9F5D15E239EED2D3789DE187AB3926726598DCAF803C777DB30"
+      cypher_p3="B1BCB817DAE735C3158CC42A6D0F6447"
+      cypher_p4="B1BCB817DAE639D3378090AA0FFEC520"
+      cypher_p5="BEBE86CAC61EF4B8E0C5E85FDF1F54D54DAF23D91747264D7E01C8DC45F0A4B9F56FD47F35346A86D73895681D20E2D559867AFCA6FEE37853876703F0A9201AAF230E7E21C67270F342DCF1AF4E0EEE348F5ED41A441D14D234F77007E12E69EBE181B045FB962E1AAFE0313C126A5EFE18BFF9A63DBE46BD042C1CE3DEE634"
+      cypher_p6="5ABE4A1599CD867B057824B495AC4AFF98ED902A992C7CB825C731D6D0A4ED9CF46CC7B15AE01E43BAD4E8AE270C97E079BB5940C614F5CAE01BA5C383199EC9FA44AE48E6336BB62CA4817A523CF9DE9F1227BBF14961ADC8C4BB33373E44319C18B3A8CA90BDAE20BBD684B8607D288FF96068CED82C3B28A490BFDB3A05B7"
+      cypher_p7="152129A3A7D6DF8D1651B31443DA6ECDC98C2E6EC3EFD0E884A1677AC640F42E7C7BE83B20EFA13AC1539195B8F46257ED3B32D4D3D12F46C2F2DB7437E41CE9A178E05C6C51080DCB6270EE7A880FCA0CB26F97D33BFC2C04379D3B1E95E4B4AFA337ECECB1D43CFD2805EA6DAA441468EA9A87CF0BB7FA30B67D23F919550DB"
+      ncodec_cypher="DE0CCAF65FA28B02"
+    />
+
+    <product 
+      id="5" 
+      name="MagAudioPlayer"         official-name="Проигрыватель"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="192"
+      cypher_const="6C47D604"
+      cypher_p1="EA72A214B13F54D11AE2243DF6D56BBB"
+      cypher_p2="157DB66FAC7BD45478E7A42D579F3D8F07A140E783DB205CD44E1B3F2B2A8847A03C05751E18E9A26D67BA49DA6BEA4DF4E6D6FA089E4AFB941EE3DF78064A732AB0083F16C541812B2CD5D181A4D71054BABA245986BD677A5CE0F08E4EC4FDFFD76B33DD5542CB23395F9065989AA30"
+      cypher_p3="F0154D160DA63ABC439BEAE17F93C899"
+      cypher_p4="F0154D160DA50670FE8F1707BA3FB424"
+      cypher_p5="ABBF3E4D10BF3D6CBB082E5040EB7EE8E0B63296429B46AF600C42B00A760C47D63C597CDC4F928D2DF066C7D1D9F8DE8C30F5F46B2C8ED01A3D2DE3786958BBAC689AB02E5FA861035379EC92A21A475548479DBC5001928C7DEFD9F2309B6DB95FA600EC8C2C923C3F16D59D7A11AD23B86A8C12C9C31BC637F9DF005637B7"
+      cypher_p6="F86E05D3D990ACF7CD2937C82BD98A5E4780B40E0C3C22980D94A30D2961B3E614D392AE5A2A003ED37706433EF40CB3138AAD3496A2FAA6C9E93682577174E2F32D9A0C07EBD788B5652ADD690E985C0CC2731195E97EBFC84E939DB16C2B73D56B28A33141234EDDD7CBFF9E010C4684C4B1A71E3672EB3C060C524EA98CDF"
+      cypher_p7="1427A4D152AFD867EF49234A42D37CE2444E451C0F6DEA5E2C319C3F70B3F25A0CCD8164104941663DFFF88F13EBAE3002D956798AB2947284103FBEB7C670C10AF60AD426B995748E2BB8AC041E58A3F0D1B81396864D56626F1F382EB44AB61B58310C2EC99603A209BF6B6B0D1F622EB11B32D1A7C5823F28A89A0BEEE54E3"
+      ncodec_cypher="A2805EE01ACCB868"
+    />
+    
+    <product 
+      id="6" 
+      name="BillClient"             official-name="Рабочее место комплекса Бия" 
+      version="2.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="F8ABCCC5"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="B4AABDE5D29B4CD4"
+                      
+    />
+
+    <product 
+      id="7" 
+      name="MWIE.Server"            official-name="Сервис управления" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="5A693965"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="996E11DA41D142B0"
+                     
+                      
+    />
+
+    <product 
+      id="8" 
+      name="MWIE.Client"            official-name="Рабочее место инженера" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="9B1E9C2A"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="A87BEFC38AE54B45"                      
+    />
+
+    <product 
+      id="9" 
+      name="MWIE.Station"           official-name="УМПУ" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="6A2EAFF1"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="BCFC0574ED0F47BF"
+    />
+
+    <product 
+      id="10" 
+      name="Integration.Server"     official-name="Сервис интеграции" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="EA7FF174"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="A4303041BDEA4875"
+    />
+
+    <product 
+      id="11" 
+      name="Integration.MagAdapter" official-name="Адаптер МАГ" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="1F626E44"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="1BD100004B334C76"
+    />
+
+    <product 
+      id="12" 
+      name="VideoJournal"           official-name="Просмотр видеозаписей" 
+      version="2.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="1F626E44"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="5A589947346BB2D8"
+    />
+    
+    <product 
+      id="13" 
+      name="ImitatorSORM"           official-name="Импульс-2" 
+      version="9.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="E9A70511"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="BC078852A97BA224"
+    />
+    
+    <product 
+      id="14" 
+      name="Contact-MagGradient"    official-name="Контакт МАГ-Градиент" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="5F4C45C9"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="84B3ADB04B52AE7D"                     
+    />
+    
+    <product 
+      id="15" 
+      name="CellPhoneTracking"      official-name="Визуализация местоположения"
+      version="3.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="B202945A"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="4F45124BA2DA15EC"
+    />
+
+    <product 
+      id="16" 
+      name="BiyaMegafonYanvarGateway"      official-name="Шлюз Мегафон (Январь)"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="BF7406F3"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="63127A0E4D4340E0"
+    />               
+
+    <product 
+      id="17" 
+      name="BiyaMtsYantarGateway"      official-name="Шлюз МТС (Янтарь)"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="338EBA81"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="4A77119175594E84"
+    />               
+
+    <product 
+      id="18" 
+      name="BiyaBeelineSpormGateway"      official-name="Шлюз Билайн (СПОРМ)"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="BCC9AA02"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="A2F50F20B73E4389"
+    />               
+
+    <product 
+      id="19" 
+      name="IstokClient"                  official-name="Исток Рабочее место"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="C1D9F2A7"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="0E8D4E43E73049A0"
+    />               
+
+    <product 
+      id="20" 
+      name="Higina.Converter"             official-name="Конвертер местоположений Хижина-МАГ"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="7E0D825B"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="097A1375969E428F"
+    />               
+
+    <product 
+      id="21" 
+      name="WebMaps"                      official-name="Поддержка веб-карт"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="DEA46AB7"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="CF430AB86D064639"
+    />               
+    
+    <product 
+      id="22" 
+      name="BiyaGatewayYanvar"      official-name="Шлюз Январь"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="E5A7A61D"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="B4C28998A94A5AD9"
+    />               
+
+    <product 
+      id="23" 
+      name="Play3GVideo"      official-name="Просмотр видео 3G"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="192"
+      cypher_const="36335A73"
+      cypher_p1="528582C0F88DC914040A6A8D046F74E7"
+      cypher_p2="1ABCB5528EE7AC176B7716E185F3F787793CE124B54FEFAE0D7E10862F77B1D3C10181753A42D36950289868A0568C539A952AAC440DE1D01920E39709FAAB66AF80B97F1C61C5A20B1BDF8A596CC6A779AE3227CB76D745ECEE6E3D52496F8054C7979378EEA7CA7B551F65E97D30484"
+      cypher_p3="8DF2CFA7C0142859C50C4972D61DE7A9"
+      cypher_p4="8DF2CFA7C0142859C50C4972D61DE7A9"
+      cypher_p5="467BC214513BC0F8ED62AD406E23FD46030142F8B57AB76F765D90C9FC4745C0533BC829C6A1B3C93E35867841B1C3E531D89D8669B2B038CB4478E6C184AD96DC7D1E67532A2C3B2668EB1AFE51756C6E82C75A0D2219EEA0773ABC8740030FC87C09F526050D74A3B34DE757C9F16199031B858BC7769333B38CF5C2371937"
+      cypher_p6="510B6904AE60917BF2D8CA1C092E4335D7D6475FE5592687200D0E548402EE791A9D537A789703A5853E9C584A40B5FAEF7EAAEA6FC70B93BB2B2C1E858BD9573798B9A63DA2BD0A8482C71521706CAAF8F97B383841FB09A32CD78A5D666250C94D65C7431F761552CDEBFABE3269DA9BC019F2B5D4BB0FB2B92B5D5CBF2E77"
+      cypher_p7="ED34BF1FC885E2513C1BC99F7F59EBD6F3DD4D1E4415060B9C584231036380AAB65D1F271F86318865266202B44BF983FE913AD484556FD8CDED27A87760649312D76EF6F24543AE2BCCD97D256A7DE87F22AF56B0D36F39C68651E6E252AFF3A73CAF67ED65547FB5A76CF26F0BD1425B0780CFD0400F3C367E3EE77E551725"
+      ncodec_cypher="7EB32BB17D6B4FFB"                     
+    />               
+
+    <product 
+      id="24" 
+      name="Integration.SINetCustomization"     official-name="Конфигурирование сети интеграции" 
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="6A60A002"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"  
+      ncodec_cypher="A4303041BDEA4875"
+    />
+    
+    <!-- "CellPhoneTracking" -->
+    <product 
+      id="25" 
+      name="CAE37CE1C33250FBC94B436769DBF9B27367299E5FB596BF23F4D925B958E590951DF868AA8C0D0C011EB4DB530D0830"
+      official-name="Визуализация местоположения" 
+      comment="G2"
+      version="4+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="D9EB7F2A"
+      cypher_p1=""  
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""   
+      ncodec_cypher="9C69C576B597F325"
+    />
+
+    <!-- "WebMaps" -->
+    <product 
+      id="26" 
+      name="C7E27190C736598CC5453C6214D3F9C6111578C707D0BF947CA3AD00BD59C3988B09F8FA60D93A4BB6F49D85FDDDDD9F"
+      official-name="Поддержка веб-карт" 
+      comment="G2"
+      version="2+"
+      mode_name="standard"
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="4BF1B20A"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="9ED5E5ACF3841C54"
+    />               
+
+    <!-- "MagRead" -->
+    <product 
+      id="27" 
+      name="BDE07A90B2362E8DB33C351261DCFFC616650EB307A6CCE40FA9AD1AB95CDC9C9A1EF84C95343EAAB37B08C40B07424A"
+      official-name="Панель МАГ (Воспроизведение)" 
+      comment="G2"
+      version="7+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="192" 
+      cypher_const="0F45D779"
+      cypher_p1="28D817BB648025421F17DEEAB445FDCF"
+      cypher_p2="3591BB8DBB9C052974A48D8B7B25DF756BB1838E42584AD30673C7226D40F7B8383B9D40193D8B082DF949B749624A35E896B838B08208DAF03E9BF38A71A1FA23773D729A0E3D2A7DD2E7F9AF55DEB6E154C9E1D4EDB5C3B622A02A0E0A07816E97195E9780E7A69395166603D011A98"
+      cypher_p3="828524AB2D784B7C09D7AF6C6776F803"
+      cypher_p4="828524AB2D7770555529DE630806EA40"
+      cypher_p5="4BF2263F20A364252A4814EAFB5074F5AEE799F15360059650D571551592D0A28492472624D756ACE2331114500F5F9041F59CB0A85DAFC9F35DF8EE4AF671706EFF90DD5DC85E1AFFCD1C796C9540B0801979B87FA76438F79DAE59E6E5BB70B24F7C54594B8612287E55079136E380BB3432953120097F931E84166F119ED1"
+      cypher_p6="1B3680350F84C30E462FD73B43CA56DC0F6891C0E7F23CCA6F8946B5E3AD468F5B671C354EA1526A16FC595FF6F818F660BA6F5FD3936E35D8B4C4F53090B0C7A5A12ADE9F9C0C1FE62671491063D3B27A527E19FE03843BE798B662799E6A738DFB65736E2C3EB1B829E991BC1DDD32D57B7DE3AAB4D7B4C0DB36C5220C44741"
+      cypher_p7="1B4FDDA0BA23B2CF78B96ED083D035B1C218B1147EF984F4644DD42F58720DE582E6CEE1AB71A9EC7B3809375178F3FE4C988F4F1BEB8ADF3B6A56A10AD35345614D9699CF66B85C749E209417C9DCF1F310C723D44DAA3EFCBD332036710D69316C9DE465CDBCE1C089A6E2E9333731E3A60ADCAE56A39D69074C0D74255ED1F"
+      ncodec_cypher="6D2D12B44B8C43A7"
+    />
+
+
+    <!-- "VideoJournal" -->
+    <product 
+      id="28" 
+      name="CAE50C95CB422C8AB14F441211AEFFB766617DB401C5A8B929F4E21DB74EFC979A16F8E79631D39064F03F969E90323D"
+      official-name="Просмотр видеозаписей"        
+      comment="G2"
+      version="3+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="1F626E44"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="5A589947346BB2D8"
+    />
+
+    <product
+      id="29"
+      name="BiyaGatewayUTK"
+      official-name="Шлюз ЮТК"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="45DEB155"
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="9597862EE19B82F1"
+    />
+    
+    <!-- "SmsService" -->
+    <product 
+      id="30" 
+      name="CB900BE2C7455980C6393D6E11DC8BB2611508C706D3C6F01EFCFE04BD49F890981FF8D77C77B2FE6041109518EACBE1"
+      official-name="Сим. Сервис приема и отправки сообщений"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="F254684D"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="09D801F269A29BA3"                     
+    />
+
+    <!-- "SimService" -->
+    <product 
+      id="31" 
+      name="C6E20D91C4362A81B138301261D9F8B310177CC000D6CDF01EF8E004BD49F890981FF8DBD9DCC9955B3508C0F1B267BC"
+      official-name="Сим. Сервис обработки запросов"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="13E69BC0"                    
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="315881D1D9FCA879"
+    />
+
+    <!-- "BarCodesAdministrator" -->
+    <product 
+      id="32" 
+      name="C7E570E1CB312A8FB13E371370A8ACF1104B289740A49ABD24FFE424AC49EF8D9408F8DBD9DCC9955B3508C0F1B267BC"
+      official-name="Штрих-К. Программа администратора"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="AB5BA77D"                    
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="453597C2ACB2F138"                     
+    />
+    
+    <!-- "BiyaSmartsGateway" -->
+    <product 
+      id="33" 
+      name="BiyaSmartsGateway"      official-name="Шлюз СМАРТС"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="858C0EEC"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="96920FA925264245"                     
+    />               
+
+    <!-- "SimMagPlaceService" -->
+    <product 
+      id="34" 
+      name="CAE07DE3C44759F9C044441211D8F9A3004D21BF5282AEBC2CF2E804BD49F890981FF8F6BB0928CF9BEA8B1422CFE61B"
+      official-name="Сим. Сервис доступа к комплексу МАГ"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0" 
+      cypher_const="F77622D6"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="68CF9D3E2D88E5F3"
+    />
+
+    <!-- "ArmNvd" -->
+    <product 
+      id="35" 
+      name="CE940AE7CA475D8AC44D406E11D28EB16B1475B004D5CFE675A2CC779949E3B78D1EF8F143AB8B541F5553A5433A3C58"
+      official-name="АРМ НВД"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="4FB1FC66"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="A7C18CBC9DA6F382"
+    />
+
+    <!-- "DeviceControlServer" -->
+    <product 
+      id="36" 
+      name="C8E50CE4B7425DFAC449341467DEEDC73652259156A691BE39E3E23B8B5EFC8F9E08F89460B23B07A4044936A49246D5"
+      official-name="Сервис управления устройствами"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="71CBA6E5"                    
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="16C561C54AEB4dA3"
+    />
+    
+    <!-- "TrassaTest" -->
+    <product 
+      id="37" 
+      name="TrassaTest"      official-name="Трасса Тест"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="1C772580"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="FDA1ADA6C2994A6E"
+    />               
+
+    <!-- "TrassaVkPru" -->
+    <product 
+      id="38" 
+      name="TrassaVkPru"      official-name="Трасса ВК ПРУ"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="456CF1AD"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="FBF25D9768DA4FE6"
+    />               
+
+    <!-- "TrassaVkPuTcpIp" -->
+    <product 
+      id="39" 
+      name="TrassaVkPuTcpIp"      official-name="Трасса ВК ПУ TCP IP"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="25902329"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="4674A03808474F5C"
+    />               
+
+    <!-- "TrassaVkPpuTcpIp" -->
+    <product 
+      id="40" 
+      name="TrassaVkPpuTcpIp"      official-name="Трасса ВК ППУ TCP IP"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="2CC9620B"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="10559C57E3814DFC"
+    />               
+    
+    <!-- BiyaGatewayServiceVK -->   
+    <product 
+      id="41" 
+      name="BiyaGatewayServiceVK"      official-name="Шлюз Сервис-ВК"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="36F3FC5C"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="8C2396D1FDB8BE6C"                     
+    />               
+    
+    <!-- "AVK4" -->
+    <product 
+      id="42" 
+      name="AVK4"      official-name="Рампа-403 (Видео)"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="826DDD15"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="64BD9993FF91FF2B"                     
+    />               
+
+    <!-- "MagBiyaConnection" -->
+    <product 
+      id="43" 
+      name="C9E70C91CB465FF9B23F466663A98CC673692D95718C87B10EFEE339BD58FA909414F897F71F55630B4BF5DE8A2506A8"
+      official-name="Поддержка запросов к комплексу Бия"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="8F31A920"
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="437F653581B2032E"
+    />
+
+    <!-- "VoiceIdentification" -->
+    <product 
+      id="44" 
+      name="C8907090C54F518EC33E341368A8EDD53C4D2F977A819BBE39F8EB3EBB5AFA909414F8CEE8FF58F3F0540CFBB1A2E431"
+      official-name="Интеграция с системой анализа речи"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="085CC727"                    
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="E9D080C75DFC47F4"
+    />
+
+    <!-- "MobileObjectsTracking" -->
+    <product 
+      id="45"
+      name="CAE608E2B0452BFEC54E331170A7A2E13A4829BD518F9BB339E2D925B958E590951DF8C5C678FEEFBA2023A5908F30D3"
+      official-name="Комплекс мобильного контроля"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="43D071D1"                    
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="C7664062BCA623C9"                     
+    />
+    
+    <!-- BarcodeK2P -->
+    <product 
+      id="46"
+      name="BBE47FE4B2325CFBB64E346067DDF5B161607FC200D4C8F00FF0FF34B75FEBB2C92AF85FBA4617E1991DCE1617E0A0BF"
+      official-name="Штрих-К. Подготовка документов"
+      comment="G2"
+      version="2+"
+      mode_name="standard"
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="7B3773B5"                    
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="02BC48179D8AAD86"                     
+    />
+    
+    <!-- BarcodeK2R -->
+    <product 
+      id="47"
+      name="CFE27E91B6455EFEC93F406F63DCF5BA6B147FC605D2BFF00FF0FF34B75FEBB2C928F8744600AB19A107C919EE0C2A4E"
+      official-name="Штрих-К. Регистрация документов"
+      comment="G2"
+      version="2+"
+      mode_name="standard"
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="BC6379B8"                    
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="A15D97995034333F"                     
+    />
+
+	<!-- BarcodeK2F -->
+    <product 
+      id="48"
+      name="CAE70CE2C1402A8BC645476613DAF4B0621D0EC302A0C7F00FF0FF34B75FEBB2C93CF8346FEB94C78808EDA2BBC57E85"
+      official-name="Штрих-К-ФСБ"
+      comment="G2"
+      version="2+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="FB01DA5E"                    
+      cypher_p1="-" 
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="B9A54582F63ED961"                     
+    />
+	
+	<!-- AccountingBarcodePrinting -->
+    <product 
+      id="49"
+      name="C9E30AE2B7322DFAD03C66343F9FA3F73A4A2BB052979DBF29F4DD25B155FA90951DF84FD66289390C45A4F2C651FEFA"
+      official-name="Учет заданий. Печать штрихкодов"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="4D459455"
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="76329AB1F137ED6F"
+    />
+
+	<!-- AnalyzeStatisticService -->
+    <product 
+      id="50"
+      name="CA970B97C4442EFCC23B25163E8BA1FA29411F86529197A339F8EE04BD49F890981FF8720B2D919DFF127EDD0DF57CFF"
+      official-name="Сервис анализа информации"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="33DC6B57"                    
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="9082F0B62E14BC49"                     
+    />
+    
+    <!-- "AVK2" -->
+    <product 
+      id="51" 
+      name="AVK2"      official-name="АВК-201"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="61B8BEE0"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="5D2342DDA9503F43"                     
+    />               
+
+    <!-- "KatunClient" -->
+    <product 
+      id="52" 
+      name="KatunClient"      official-name="Рабочее место комлекса Катунь"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="1D642625"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="5B2D9ECDE243C1CB"
+    />               
+    
+    <!-- "BiyaGatewayNSS"  -->
+    <product 
+      id="53" 
+      name="BiyaGatewayNSS"      official-name="Шлюз НСС"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="53616739"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="02BE4514AB2D1ADF"                     
+    />               
+    
+    <!-- "AVK2U" -->
+    <product 
+      id="54" 
+      name="AVK2U"      official-name="АВК-201У"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="B93F4295"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="445074A37C5D428B"
+    />               
+    
+    <!-- "IstokGateway"  -->
+    <product 
+      id="55"
+      name="IstokGateway"      official-name="Исток Шлюз"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="30523917"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="924FB5F062CDBB19"                     
+    />               
+
+	<!-- PolyglotWebAccess -->
+    <product 
+      id="56"
+      name="CD937BE2C5412C8DC544321662D9FEB37374239E4A8292BF39C6E8359958ED9C8809F8289CCACF87695E69871A52D6A6"
+      official-name="Полиглот. Сервис доступа к Веб"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="5E66124A"                    
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="5F6AD4E6A04544A0"
+    />
+
+
+	<!-- MagServerComponents -->
+    <product 
+      id="57"
+      name="CDE07AE3B5332D8BB53B336513D3EDCE32431F9741939BA20EFEE027B755EB978F09F8289CCACF87695E69871A52D6A6"
+      official-name="Компоненты серверного ядра"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="B1785F86"
+      cypher_p1="-"
+      cypher_p2="-"
+      cypher_p3="-"
+      cypher_p4="-"
+      cypher_p5="-"
+      cypher_p6="-"
+      cypher_p7="-"
+      ncodec_cypher="0F6B070452E8418A"
+    />
+
+    <!-- "Rampa_Audio" -->
+    <product 
+      id="58" 
+      name="Rampa_Audio"      official-name="Рампа-403 (Аудио)"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="9D9C8FE6"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="A42CB5B38ED7DADC"
+    />               
+    
+    <!-- "BiyaGatewayTele2"  -->
+    <product 
+      id="59"
+      name="BiyaGatewayTele2"      official-name="Шлюз Теле2"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="5430E056"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="39D04495BBCB1DF3"
+    />               
+    
+    <!-- "ONVIF_Device"  -->
+    <product 
+      id="60"
+      name="ONVIF_Device"      official-name="Устройство ONVIF"
+      version="1.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="14C9AFA3"                    
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="73244913BD6C009C"                     
+    />               
+
+    <!-- "OraculServerBase"  -->
+    <product 
+      id="61"
+      name="CE900897B73429FBC9453D6513D28FC11704038052868BBC1EF4FF21BD49CC98881FF8295DC5C3A7BD9F72FF395242D0"
+      official-name="Оракул. Серверное ядро. Базис"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="1D870A06"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="7489691DAE61461A"
+                     
+    />               
+
+    <!-- "OraculWorkstationBase"  -->
+    <product 
+      id="62"
+      name="BEE771E1C240298BB13E336770A5BFE2305120A55C9795A339F0F93EB755CC98881FF8EC27160194939AC1AC80A1C535"
+      official-name="Оракул. Рабочее место. Базис"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="8D4CF11C"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="CD80A787FACD4296"
+    />               
+
+    <!-- "HataMag"  -->
+    <product 
+      id="63"
+      name="HataMag"      official-name="Импорт потоков из Хижины"
+      version="4.*"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="E1B14AE9"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="2F21AB9B62B5483A"
+    />
+    
+    <!-- "BillClient"  -->
+    <product 
+      id="64"
+      name="CD957192C0412C80B34C436664DAFDBB111379C402D4CEF00FF8E13B9B57E79C950EF8CBD044A43DAF01D7E1170D93B8"
+      official-name="Рабочее место комплекса Бия"
+      comment="G2"
+      version="3+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="E63BF7C8"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="A2A747D6977B8C88"                     
+    />               
+
+    <!-- "BiyaGateway"  -->
+    <product 
+      id="65"
+      name="BDE179E1CA365A80C03F416464DFF5B3626075C772D0DE9224E8EC10B94FEB8E9A03F8045AEAA123663DDFE99A796EE6"
+      official-name="Шлюз комплекса Бия"
+      comment="G2"
+      version="3+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="1F87783C"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="AD194557B11A9441"
+    />               
+
+    <!-- "Kolpak" -->
+    <product 
+      id="66"
+      name="B9E70D90B2402D81C844376612D98EB310107FC50AD3CEE974A9BD779354E2899A11F8648153C9F9DCF3702CD26C384D"
+      official-name="Колпак"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="A14E9689"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="951E283E4D30A985"
+    />
+
+    <!-- "PlaybackMining" -->
+    <product 
+      id="67"
+      name="CDE278E2B535298EC73E411168DAF4B316650FD263899FA92FF0EE3C9552E090951DF89720390E7AE1E7EB9CDEDE6C00"
+      official-name="Обнаружение дополнительной информации"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="A2411B0D"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="75AD76BC0189FFAA"
+    />               
+    
+    <!-- "RegDocJournal" -->
+    <product 
+      id="68"
+      name="CEE07E97B04F50F9C53B3D6066DA8FC112607CC013B79BB709FEEE1DB74EFC979A16F8DA68F2F704C552BD0F01F1AD7E"
+      official-name="Журналы регистрации документов"
+      comment="G2"
+      version="1+"
+      mode_name="standard" 
+      mode_id="2"
+      cypher_signature_size="0"
+      cypher_const="A14D4E52"
+      cypher_p1=""
+      cypher_p2=""
+      cypher_p3=""
+      cypher_p4=""
+      cypher_p5=""
+      cypher_p6=""
+      cypher_p7=""
+      ncodec_cypher="7514AAC1F2F72305"
+    />
+
+           
+  </products>
+
+
+  <license_pack id="ДАТА">
+  
+    <!-- name="MagRead"                   official-name="Панель МАГ (Воспроизведение)" -->
+    <license 
+      product_id="1" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="TaskJournal"               official-name="Учет заданий" -->
+    <license 
+      product_id="2" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="MagFax"                    official-name="Обработка факсимильных сообщений" -->
+    <license 
+      product_id="3" 
+      unlimited_licenses="0"
+      limited_licenses="0"
+      expiration_date="2000.01.01"
+    />
+    
+    <!-- name="CellPhoneTracking"         official-name="Визуализация местоположения" -->
+    <license 
+      product_id="4" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="MagAudioPlayer"            official-name="Проигрыватель" -->
+    <license 
+      product_id="5" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="BillClient"                official-name="Рабочее место комплекса Бия" -->
+    <license 
+      product_id="6" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="MWIE.Server"               official-name="Сервис управления" -->
+    <license 
+      product_id="7" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="MWIE.Client"               official-name="Рабочее место инженера" -->
+    <license 
+      product_id="8" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="MWIE.Station"              official-name="УМПУ" -->
+    <license 
+      product_id="9" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="Integration.Server"        official-name="Сервис интеграции" -->
+    <license 
+      product_id="10" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="Integration.MagAdapter"    official-name="Адаптер МАГ" -->
+    <license 
+      product_id="11" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="VideoJournal"              official-name="Просмотр видеозаписей" -->
+    <license 
+      product_id="12" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="ImitatorSORM"              official-name="Импульс-2" -->
+    <license 
+      product_id="13" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="Contact-MagGradient"       official-name="Контакт МАГ-Градиент" -->
+    <license 
+      product_id="14" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="CellPhoneTracking"         official-name="Визуализация местоположения" (v3) -->
+    <license 
+      product_id="15" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="BiyaMegafonYanvarGateway"  official-name="Шлюз Мегафон (Январь)" -->
+    <license 
+      product_id="16" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="BiyaMtsYantarGateway"      official-name="Шлюз МТС (Янтарь)" -->
+    <license 
+      product_id="17" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="BiyaBeelineSpormGateway"   official-name="Шлюз Билайн (СПОРМ)" -->
+    <license 
+      product_id="18" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="IstokClient"               official-name="Исток Рабочее место" -->
+    <license 
+      product_id="19" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="Higina.Converter"          official-name="Конвертер местоположений Хижина-МАГ" -->
+    <license 
+      product_id="20" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="WebMaps"                   official-name="Поддержка веб-карт" -->
+    <license 
+      product_id="21" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="BiyaGatewayYanvar"         official-name="Шлюз Январь" -->
+    <license 
+      product_id="22" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="Play3GVideo"               official-name="Просмотр видео 3G" -->
+    <license 
+      product_id="23" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="Integration.SINetCustomization" official-name="Конфигурирование сети интеграции" -->
+    <license 
+      product_id="24" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- 
+    	Для лицензий G2 можно указывать несколько тэгов entry.
+    	Если необходимо жестко ограничить срок действия лицензий G2, вставьте в соответствующий тэг entry атрибут expiration_date="YYYY.MM.DD".
+    -->
+    
+    <!-- name="CellPhoneTracking"         official-name="Визуализация местоположения"             comment="G2" version="4+" -->
+    <license product_id="25">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    
+    <!-- name="WebMaps"                   official-name="Поддержка веб-карт"                      comment="G2" version="2+" -->
+    <license product_id="26">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+
+    <!-- name="MagRead"                   official-name="Панель МАГ (Воспроизведение)"            comment="G2" version="7+" -->
+    <license product_id="27">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+      
+    <!-- name="VideoJournal"              official-name="Просмотр видеозаписей"                   comment="G2" version="3+" -->
+    <license product_id="28">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="BiyaGatewayUTK"            official-name="Шлюз ЮТК"  version="1.*" -->
+    <license 
+      product_id="29" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="SmsService"                official-name="Сим. Сервис приема и отправки сообщений" comment="G2" version="1+" -->
+    <license product_id="30">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="SimService"                official-name="Сим. Сервис обработки запросов"          comment="G2" version="1+" -->
+    <license product_id="31">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+    
+    <!-- name="BarCodesAdministrator"     official-name="Штрих-К. Программа администратора"       comment="G2" version="1+" -->
+    <license product_id="32">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="BiyaSmartsGateway"         official-name="Шлюз СМАРТС"  version="1.*" -->
+    <license 
+      product_id="33" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="SimMagPlaceService"        official-name="Сим. Сервис доступа к комплексу МАГ" comment="G2" version="1+"-->
+    <license product_id="34">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="ArmNvd"                    official-name="АРМ НВД"                             comment="G2" version="1+"-->
+    <license product_id="35">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="DeviceControlServer"       official-name="Сервис управления устройствами"      comment="G2" version="1+" -->
+    <license product_id="36">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+    
+    <!-- name="TrassaTest"                official-name="Трасса Тест"          version="1.*" -->
+    <license 
+      product_id="37" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="TrassaVkPru"               official-name="Трасса ВК ПРУ"        version="1.*" -->
+    <license 
+      product_id="38" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="TrassaVkPuTcpIp"           official-name="Трасса ВК ПУ TCP IP"  version="1.*" -->
+    <license 
+      product_id="39" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="TrassaVkPpuTcpIp"          official-name="Трасса ВК ППУ TCP IP" version="1.*" -->
+    <license 
+      product_id="40" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="BiyaGatewayServiceVK"      official-name="Шлюз Сервис-ВК"   version="1.*" -->
+    <license 
+      product_id="41" 
+      unlimited_licenses="0"
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="AVK4"                      official-name="Рампа-403 (Видео)"            version="1.*" -->
+    <license 
+      product_id="42" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="MagBiyaConnection"         official-name="Поддержка запросов к комплексу Бия"     comment="G2" version="1+" -->
+    <license product_id="43">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="VoiceIdentification"       official-name="Интеграция с системой анализа речи" comment="G2" version="1+" -->
+    <license product_id="44">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="MobileObjectsTracking"     official-name="Комплекс мобильного контроля"           comment="G2" version="1+" -->
+    <license product_id="45">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+
+    <!-- name="BarcodeK2P"                official-name="Штрих-К. Подготовка документов"         comment="G2" version="2+"-->
+    <license product_id="46">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/>
+    </license>
+    
+    <!-- name="BarcodeK2R"                official-name="Штрих-К. Регистрация документов"        comment="G2" version="2+" -->
+    <license product_id="47">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+	<!-- name="BarcodeK2F"                official-name="Штрих-К-ФСБ"                            comment="G2" version="2+" -->
+    <license product_id="48">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+	
+	<!-- name="AccountingBarcodePrinting" official-name="Учет заданий. Печать штрихкодов"        comment="G2" version="1+" -->
+    <license product_id="49">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+	<!-- name="AnalyzeStatisticService"   official-name="Сервис анализа информации"              comment="G2" version="1+" -->
+    <license product_id="50">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+    <!-- name="AVK2"                      official-name="АВК-201"              version="1.*" -->
+    <license 
+      product_id="51" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="KatunClient"               official-name="Рабочее место комлекса Катунь" version="1.*" -->
+    <license 
+      product_id="52" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="BiyaGatewayNSS"            official-name="Шлюз НСС" version="1.*" -->
+    <license 
+      product_id="53" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="AVK2U"                     official-name="АВК-201У"              version="1.*" -->
+    <license 
+      product_id="54" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="IstokGateway"              official-name="Исток Шлюз"            version="1.*" -->
+    <license 
+      product_id="55" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+	<!-- name="PolyglotWebAccess"         official-name="Полиглот. Сервис доступа к Веб"              comment="G2" version="1+" -->
+    <license product_id="56">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+    
+	<!-- name="MagServerComponents"       official-name="Компоненты серверного ядра"              comment="G2" version="1+" -->
+    <license product_id="57">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+    
+    <!-- name="Rampa_Audio"               official-name="Рампа-403 (Аудио)"   version="1.*" -->
+    <license 
+      product_id="58" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+    <!-- name="BiyaGatewayTele2"          official-name="Шлюз Теле2"            version="1.*" -->
+    <license 
+      product_id="59" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+    
+    <!-- name="ONVIF_Device"          official-name="Устройство ONVIF"            version="1.*" -->
+    <license 
+      product_id="60" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+	<!-- name="OraculServerBase"       official-name="Оракул. Серверное ядро. Базис"              comment="G2" version="1+" -->
+    <license product_id="61">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+	<!-- name="OraculWorkstationBase"       official-name="Оракул. Рабочее место. Базис"              comment="G2" version="1+" -->
+    <license product_id="62">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+    
+
+    <!-- name="HataMag"          official-name="Импорт потоков из Хижины"            version="4.*" -->
+    <license 
+      product_id="63" 
+      unlimited_licenses="0" 
+      limited_licenses="0" 
+      expiration_date="2000.01.01" 
+    />
+
+	<!-- name="BillClient"       official-name="Рабочее место комплекса Бия"              comment="G2" version="3+" -->
+    <license product_id="64">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+	<!-- name="BiyaGateway"       official-name="Шлюз комплекса Бия"              comment="G2" version="3+" -->
+    <license product_id="65">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+	<!-- name="Kolpak"       official-name="Колпак"              comment="G2" version="1+" -->
+    <license product_id="66">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+    <!-- name="PlaybackMining"       official-name="Обнаружение дополнительной информации"              comment="G2" version="1+" -->
+    <license product_id="67">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+    <!-- name="RegDocJournal"       official-name="Журналы регистрации документов"              comment="G2" version="1+" -->
+    <license product_id="68">
+      <entry licenses="0" purchase_date="2000.01.01" support_expiration_date="2000.01.01" guarantee_expiration_date="2000.01.01"/> 
+    </license>
+
+
+  </license_pack>
+
+  <dongles_pack id="ГОРОД_ВЕДОМСТВО">
+    
+		<!-- НОМЕР_ОСНОВНОГО -->
+		<dongle
+			id="ID_ОСНОВНОГО"
+			TRU_cypher="КОД_ОСНОВНОГО"
+			type="master"
+		/>
+
+		<!-- НОМЕР_ЗАПАСНОГО -->
+		<dongle
+			id="ID_ЗАПАСНОГО"
+			TRU_cypher="КОД_ЗАПАСНОГО"
+			type="reserved"
+		/>
+    
+	</dongles_pack>
+
+	<TRU_requests>
+		
+		<!-- НОМЕР_ОСНОВНОГО -->
+		<TRU_request 
+			request="ЗАПРОС_ОСНОВНОГО"
+		/>
+
+		<!-- НОМЕР_ЗАПАСНОГО -->
+		<TRU_request 
+			request="ЗАПРОС_ЗАПАСНОГО"
+		/>
+		
+	</TRU_requests>
+  
+
+</signatec_licenses_pack>
